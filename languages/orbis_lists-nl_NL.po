@@ -1,0 +1,156 @@
+# Copyright (C) 2016 Pronamic
+# This file is distributed under the Copyright (c) Pronamic.
+msgid ""
+msgstr ""
+"Project-Id-Version: Orbis Lists\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/orbis-lists\n"
+"POT-Creation-Date: 2016-11-01 10:49:53+00:00\n"
+"PO-Revision-Date: 2016-11-01 12:23+0100\n"
+"Last-Translator: Remco Tolsma <info@remcotolsma.nl>\n"
+"Language-Team: Pronamic <info@pronamic.nl>\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: classes/orbis-lists-plugin.php:20 classes/orbis-lists-plugin.php:22
+#: classes/orbis-lists-plugin.php:33 classes/orbis-lists-plugin.php:63
+msgid "Lists"
+msgstr "Lijsten"
+
+#: classes/orbis-lists-plugin.php:23 classes/orbis-lists-plugin.php:72
+msgid "List"
+msgstr "Lijst"
+
+#: classes/orbis-lists-plugin.php:24
+msgid "Add New"
+msgstr "Nieuwe toevoegen"
+
+#: classes/orbis-lists-plugin.php:25
+msgid "Add New List"
+msgstr "Nieuwe lijst toevoegen"
+
+#: classes/orbis-lists-plugin.php:26
+msgid "Edit List"
+msgstr "Lijst bewerken"
+
+#: classes/orbis-lists-plugin.php:27
+msgid "New List"
+msgstr "Nieuwe lijst"
+
+#: classes/orbis-lists-plugin.php:28
+msgid "All Lists"
+msgstr "Alle lijsten"
+
+#: classes/orbis-lists-plugin.php:29
+msgid "View List"
+msgstr "Lijst bekijken"
+
+#: classes/orbis-lists-plugin.php:30
+msgid "Search Lists"
+msgstr "Lijsten zoeken"
+
+#: classes/orbis-lists-plugin.php:31 classes/orbis-lists-plugin.php:74
+msgid "No lists found."
+msgstr "Geen lijsten gevonden."
+
+#: classes/orbis-lists-plugin.php:32
+msgid "No lists found in Trash."
+msgstr "Geen lijsten gevonden in de prullenbak."
+
+#: classes/orbis-lists-plugin.php:34
+msgid "Filter lists list"
+msgstr "Filter lijsten lijst"
+
+#: classes/orbis-lists-plugin.php:35
+msgid "Lists list navigation"
+msgstr "Lijsten lijst navigatie"
+
+#: classes/orbis-lists-plugin.php:36
+msgid "Lists list"
+msgstr "Lijsten lijst"
+
+#: classes/orbis-lists-plugin.php:62
+msgid "Persons"
+msgstr "Personen"
+
+#: classes/orbis-lists-plugin.php:66
+msgid "Person"
+msgstr "Persoon"
+
+#: classes/orbis-lists-plugin.php:67
+msgid "Search person"
+msgstr "Persoon zoeken"
+
+#: classes/orbis-lists-plugin.php:68
+msgid "No persons found."
+msgstr "Geen personen gevonden."
+
+#: classes/orbis-lists-plugin.php:69
+msgid "Add Person"
+msgstr "Persoon toevoegen"
+
+#: classes/orbis-lists-plugin.php:73
+msgid "Search lists"
+msgstr "Lijsten zoeken"
+
+#: classes/orbis-lists-plugin.php:75
+msgid "Add to List"
+msgstr "Toevoegen aan lijst"
+
+#: classes/orbis-lists-plugin.php:84
+msgid "Active"
+msgstr "Actief"
+
+#: classes/orbis-lists-plugin.php:87
+msgid "Yes"
+msgstr "Ja"
+
+#: classes/orbis-lists-plugin.php:88
+msgid "No"
+msgstr "Nee"
+
+#: classes/orbis-lists-plugin.php:89
+msgid "Maybe"
+msgstr "Misschien"
+
+#: classes/orbis-lists-plugin.php:93
+msgid "Note"
+msgstr "Notitie"
+
+#. Plugin Name of the plugin/theme
+msgid "Orbis Lists"
+msgstr "Orbis lijsten"
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.pronamic.eu/plugins/orbis-lists/"
+msgstr "https://www.pronamic.eu/plugins/orbis-lists/"
+
+#. Description of the plugin/theme
+msgid ""
+"The Orbis Lists plugin extends your Orbis environment with the option to "
+"create lists for contacts."
+msgstr ""
+"De Orbis lijsten plugin breidt je Orbis omgeving uit met de optie om lijsten "
+"te creëren voor contacten."
+
+#. Author of the plugin/theme
+msgid "Pronamic"
+msgstr "Pronamic"
+
+#. Author URI of the plugin/theme
+msgid "https://www.pronamic.eu/"
+msgstr "https://www.pronamic.nl/"
+
+#: classes/orbis-lists-plugin.php:51
+msgctxt "slug"
+msgid "lists"
+msgstr "lijsten"
+
+#~ msgid "Participate"
+#~ msgstr "Deelname"
+
+#~ msgid "Create Connections"
+#~ msgstr "Creëer verbinding"
