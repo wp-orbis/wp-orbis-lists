@@ -74,7 +74,6 @@ class Orbis_Lists_Plugin extends Orbis_Plugin {
 				'not_found'     => __( 'No lists found.', 'orbis_lists' ),
 				'create'        => __( 'Add to List', 'orbis_lists' ),
 			),
-			'admin_column' => 'any',
 			'admin_box'    => array(
     			'show'    => 'any',
     			'context' => 'advanced'
