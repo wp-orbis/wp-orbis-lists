@@ -59,14 +59,14 @@ class Orbis_Lists_Plugin extends Orbis_Plugin {
 			'from'         => 'orbis_person',
 			'to'           => 'orbis_list',
 			'title'        => array(
-				'from' => __( 'Persons', 'orbis_lists' ),
+				'from' => __( 'Contacts', 'orbis_lists' ),
 				'to'   => __( 'Lists', 'orbis_lists' )
 			),
 			'from_labels'  => array(
-				'singular_name' => __( 'Person', 'orbis_lists' ),
-				'search_items'  => __( 'Search person', 'orbis_lists' ),
-				'not_found'     => __( 'No persons found.', 'orbis_lists' ),
-				'create'        => __( 'Add Person', 'orbis_lists' ),
+				'singular_name' => __( 'Contact', 'orbis_lists' ),
+				'search_items'  => __( 'Search contact', 'orbis_lists' ),
+				'not_found'     => __( 'No contacts found.', 'orbis_lists' ),
+				'create'        => __( 'Add Contact', 'orbis_lists' ),
 			),
 			'to_labels'    => array(
 				'singular_name' => __( 'List', 'orbis_lists' ),

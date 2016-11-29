@@ -71,23 +71,23 @@ msgid "Lists list"
 msgstr ""
 
 #: classes/orbis-lists-plugin.php:62
-msgid "Persons"
+msgid "Contacts"
 msgstr ""
 
 #: classes/orbis-lists-plugin.php:66
-msgid "Person"
+msgid "Contact"
 msgstr ""
 
 #: classes/orbis-lists-plugin.php:67
-msgid "Search person"
+msgid "Search contact"
 msgstr ""
 
 #: classes/orbis-lists-plugin.php:68
-msgid "No persons found."
+msgid "No contacts found."
 msgstr ""
 
 #: classes/orbis-lists-plugin.php:69
-msgid "Add Person"
+msgid "Add Contact"
 msgstr ""
 
 #: classes/orbis-lists-plugin.php:73
@@ -98,23 +98,23 @@ msgstr ""
 msgid "Add to List"
 msgstr ""
 
-#: classes/orbis-lists-plugin.php:84
+#: classes/orbis-lists-plugin.php:83
 msgid "Active"
 msgstr ""
 
-#: classes/orbis-lists-plugin.php:87
+#: classes/orbis-lists-plugin.php:86
 msgid "Yes"
 msgstr ""
 
-#: classes/orbis-lists-plugin.php:88
+#: classes/orbis-lists-plugin.php:87
 msgid "No"
 msgstr ""
 
-#: classes/orbis-lists-plugin.php:89
+#: classes/orbis-lists-plugin.php:88
 msgid "Maybe"
 msgstr ""
 
-#: classes/orbis-lists-plugin.php:93
+#: classes/orbis-lists-plugin.php:92
 msgid "Note"
 msgstr ""
 

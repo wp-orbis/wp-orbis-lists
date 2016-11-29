@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Orbis Lists\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/orbis-lists\n"
 "POT-Creation-Date: 2016-11-01 10:49:53+00:00\n"
-"PO-Revision-Date: 2016-11-01 12:23+0100\n"
+"PO-Revision-Date: 2016-11-29 11:48+0100\n"
 "Last-Translator: Remco Tolsma <info@remcotolsma.nl>\n"
 "Language-Team: Pronamic <info@pronamic.nl>\n"
 "Language: nl_NL\n"
@@ -73,24 +73,24 @@ msgid "Lists list"
 msgstr "Lijsten lijst"
 
 #: classes/orbis-lists-plugin.php:62
-msgid "Persons"
-msgstr "Personen"
+msgid "Contacts"
+msgstr "Contacten"
 
 #: classes/orbis-lists-plugin.php:66
-msgid "Person"
-msgstr "Persoon"
+msgid "Contact"
+msgstr "Contact"
 
 #: classes/orbis-lists-plugin.php:67
-msgid "Search person"
-msgstr "Persoon zoeken"
+msgid "Search contact"
+msgstr "Contact zoeken"
 
 #: classes/orbis-lists-plugin.php:68
-msgid "No persons found."
-msgstr "Geen personen gevonden."
+msgid "No contacts found."
+msgstr "Geen contacten gevonden."
 
 #: classes/orbis-lists-plugin.php:69
-msgid "Add Person"
-msgstr "Persoon toevoegen"
+msgid "Add Contact"
+msgstr "Contact toevoegen"
 
 #: classes/orbis-lists-plugin.php:73
 msgid "Search lists"
@@ -100,23 +100,23 @@ msgstr "Lijsten zoeken"
 msgid "Add to List"
 msgstr "Toevoegen aan lijst"
 
-#: classes/orbis-lists-plugin.php:84
+#: classes/orbis-lists-plugin.php:83
 msgid "Active"
 msgstr "Actief"
 
-#: classes/orbis-lists-plugin.php:87
+#: classes/orbis-lists-plugin.php:86
 msgid "Yes"
 msgstr "Ja"
 
-#: classes/orbis-lists-plugin.php:88
+#: classes/orbis-lists-plugin.php:87
 msgid "No"
 msgstr "Nee"
 
-#: classes/orbis-lists-plugin.php:89
+#: classes/orbis-lists-plugin.php:88
 msgid "Maybe"
 msgstr "Misschien"
 
-#: classes/orbis-lists-plugin.php:93
+#: classes/orbis-lists-plugin.php:92
 msgid "Note"
 msgstr "Notitie"
 
@@ -148,6 +148,15 @@ msgstr "https://www.pronamic.nl/"
 msgctxt "slug"
 msgid "lists"
 msgstr "lijsten"
+
+#~ msgid "Persons"
+#~ msgstr "Personen"
+
+#~ msgid "Person"
+#~ msgstr "Persoon"
+
+#~ msgid "Add Person"
+#~ msgstr "Persoon toevoegen"
 
 #~ msgid "Participate"
 #~ msgstr "Deelname"
