@@ -60,7 +60,7 @@ class Orbis_Lists_Plugin extends Orbis_Plugin {
 			'to'           => 'orbis_list',
 			'title'        => array(
 				'from' => __( 'Contacts', 'orbis_lists' ),
-				'to'   => __( 'Lists', 'orbis_lists' )
+				'to'   => __( 'Lists', 'orbis_lists' ),
 			),
 			'from_labels'  => array(
 				'singular_name' => __( 'Contact', 'orbis_lists' ),
@@ -75,9 +75,9 @@ class Orbis_Lists_Plugin extends Orbis_Plugin {
 				'create'        => __( 'Add to List', 'orbis_lists' ),
 			),
 			'admin_box'    => array(
-    			'show'    => 'any',
-    			'context' => 'advanced'
-    		),
+				'show'    => 'any',
+				'context' => 'advanced',
+			),
 			'fields'       => array(
 				'active' => array(
 					'title'  => __( 'Active', 'orbis_lists' ),
