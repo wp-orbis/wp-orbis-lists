@@ -55,30 +55,30 @@ class Orbis_Lists_Plugin extends Orbis_Plugin {
 
 	public function p2p_init() {
 		p2p_register_connection_type( array(
-			'name'         => 'orbis_persons_to_lists',
-			'from'         => 'orbis_person',
-			'to'           => 'orbis_list',
-			'title'        => array(
+			'name'        => 'orbis_persons_to_lists',
+			'from'        => 'orbis_person',
+			'to'          => 'orbis_list',
+			'title'       => array(
 				'from' => __( 'Contacts', 'orbis_lists' ),
 				'to'   => __( 'Lists', 'orbis_lists' ),
 			),
-			'from_labels'  => array(
+			'from_labels' => array(
 				'singular_name' => __( 'Contact', 'orbis_lists' ),
 				'search_items'  => __( 'Search contact', 'orbis_lists' ),
 				'not_found'     => __( 'No contacts found.', 'orbis_lists' ),
 				'create'        => __( 'Add Contact', 'orbis_lists' ),
 			),
-			'to_labels'    => array(
+			'to_labels'   => array(
 				'singular_name' => __( 'List', 'orbis_lists' ),
 				'search_items'  => __( 'Search lists', 'orbis_lists' ),
 				'not_found'     => __( 'No lists found.', 'orbis_lists' ),
 				'create'        => __( 'Add to List', 'orbis_lists' ),
 			),
-			'admin_box'    => array(
+			'admin_box'   => array(
 				'show'    => 'any',
 				'context' => 'advanced',
 			),
-			'fields'       => array(
+			'fields'      => array(
 				'active' => array(
 					'title'  => __( 'Active', 'orbis_lists' ),
 					'type'   => 'select',
@@ -89,8 +89,8 @@ class Orbis_Lists_Plugin extends Orbis_Plugin {
 					),
 				),
 				'note'   => array(
-					'title'  => __( 'Note', 'orbis_lists' ),
-					'type'   => 'text',
+					'title' => __( 'Note', 'orbis_lists' ),
+					'type'  => 'text',
 				),
 			),
 		) );
